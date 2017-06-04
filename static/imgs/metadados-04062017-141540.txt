@@ -1,0 +1,1 @@
+{"img": "", "t_espera": "5", "agencia": "XXX", "datetime": "04062017-141540", "btn": "Caixa"}
